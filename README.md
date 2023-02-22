@@ -3,8 +3,6 @@
 <h3 align="center">FrontEnd Developer 💻</h3>
 <img align = "right" alt="Coding" width="400" height="350" src="https://th.bing.com/th/id/R.b8621d221ed49bf3bf0abcb7e7efee87?rik=%2fVxsz46vZmIy9w&pid=ImgRaw&r=0">
 - 📖 Actualmente aprendiendo **Backend**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
