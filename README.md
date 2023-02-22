@@ -1,5 +1,3 @@
-![error](https://user-images.githubusercontent.com/49600985/220758799-ba2cbe97-0331-43ae-b8dc-28b99a14be2f.gif)
-
 <h1 align="center">Hola mi nombre es Bryan Guerra 🧐</h1>
 <h3 align="center">FrontEnd Developer 💻</h3>
 
