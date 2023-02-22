@@ -1,6 +1,7 @@
+<img align="center" alt="Coding" width="1000" height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
 <h1 align="center">Hola mi nombre es Bryan Guerra 🧐</h1>
 <h3 align="center">FrontEnd Developer 💻</h3>
-<img align = "right" alt="Coding" width="600" src="https://th.bing.com/th/id/R.b8621d221ed49bf3bf0abcb7e7efee87?rik=%2fVxsz46vZmIy9w&pid=ImgRaw&r=0">
+<img align = "right" alt="Coding" width="465" src="https://th.bing.com/th/id/R.b8621d221ed49bf3bf0abcb7e7efee87?rik=%2fVxsz46vZmIy9w&pid=ImgRaw&r=0">
 - 📖 Actualmente aprendiendo **Backend**
 
 <h3 align="left">Connect with me:</h3>
